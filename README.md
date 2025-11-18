@@ -101,4 +101,4 @@ A complete GenAI-driven Retail Insights System ready for demo and evaluation.
 
 ---
 
-**Made with ❤️ using Python, MySQL & Gemini**
+**Developer - N.V.Subrahmanyam**
